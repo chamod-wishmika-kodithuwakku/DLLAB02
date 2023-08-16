@@ -1,0 +1,3 @@
+2) 1. Accuracy is increasing 
+
+2-2.Accuracy rises proportionally as the quantity of nodes in the hidden layers increases. However, beyond a certain threshold, accuracy begins to fluctuate without reaching its maximum potential.
